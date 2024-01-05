@@ -1,11 +1,11 @@
-### Hallå! 🙋‍♂️ My name is John...
+# Hallå! 🙋‍♂️ My name is John...
 A Game Programmer with a passion for moment-to-moment gameplay and pedagogy!
 
-# I'm a:
+## I'm a:
 * 🧽 Knowledge Sponge
 * 🦾 Efficiency Seeker
 * 🛠 Problem Solver
 * 👨‍💻 Doer
 
-# I use:
+## I use:
 C#, GDScript, HTML, CSS, Unity, Godot, FMOD, Git, Perforce
