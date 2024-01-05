@@ -1,5 +1,5 @@
 ## Hallå! 🙋‍♂️ My name is John...
-A Game Programmer with a passion for moment-to-moment gameplay and pedagogy!🎮
+A Game Programmer with a passion for moment-to-moment gameplay and continuous learning!🎮
 
 ### I'm a:
 * 🧽 Knowledge Sponge
