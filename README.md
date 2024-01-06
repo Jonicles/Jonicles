@@ -8,4 +8,4 @@ A Game Programmer with a passion for moment-to-moment gameplay and continuous le
 * Doer 👨‍💻
 
 ### I use:
-C#, GDScript, HTML, CSS, Unity, Godot, FMOD, Git, Perforce
+C#, GDScript, HTML, CSS, Unity, Godot, FMOD, Git, Perforce (and more to come!)
